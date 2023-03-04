@@ -1,0 +1,14 @@
+exceptions\DBNotAvailableException.class
+firebase4j\error\FirebaseException.class
+firebase4j\service\Firebase$1.class
+controllers\UserController.class
+model\Usuario.class
+firebase4j\service\Firebase.class
+controllers\Sesion.class
+firebase4j\util\JacksonUtility.class
+firebase4j\error\JacksonUtilityException.class
+firebase4j\service\Firebase$FirebaseRestMethod.class
+firebase4j\model\FirebaseResponse.class
+controllers\DataBase.class
+application\BackendApplication.class
+controllers\GestorUsuarios.class

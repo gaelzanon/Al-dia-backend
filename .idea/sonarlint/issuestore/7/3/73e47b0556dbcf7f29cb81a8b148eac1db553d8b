@@ -1,0 +1,47 @@
+
+o
+java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(çßóœ
+o
+java:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(çßóœ
+b
+java:S1192²"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(–íÒ«ûÿÿÿÿ
+8
+java:S1643Ô"Use a StringBuilder instead.(Ÿø„½şÿÿÿÿ
+{
+java:S1488v"`Immediately return this expression instead of assigning it to the temporary variable "response".(Ééœëÿÿÿÿÿ
+w
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "response".(É²­ü
+w
+java:S1488¿"`Immediately return this expression instead of assigning it to the temporary variable "response".(É²­ü
+w
+java:S1488è"`Immediately return this expression instead of assigning it to the temporary variable "response".(ú…ÄÀ
+w
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "response".(ú…ÄÀ
+w
+java:S1488¾"`Immediately return this expression instead of assigning it to the temporary variable "response".(¢ƒŞì
+w
+java:S1488ë"`Immediately return this expression instead of assigning it to the temporary variable "response".(¢ƒŞì
+w
+java:S1488˜"`Immediately return this expression instead of assigning it to the temporary variable "response".(ßª¶Ï
+A
+java:S5411Ì"*Use the primitive boolean expression here.(ÓÊÏ×
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Åê¥²
+k
+java:S2095ø"OUse try-with-resources or close this "DefaultHttpClient" in a "finally" clause.(‹Æ¥ıÿÿÿÿ
+W	java:S125—"<This block of commented-out lines of code should be removed.(Ç“Õ§ùÿÿÿÿ
+A
+java:S1181´"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+B
+java:S1075Ç"&Remove this hard-coded path-delimiter.(ƒ–çÿÿÿÿÿ
+P
+java:S1854†":Remove this useless assignment to local variable "client".(²İÄy
+U
+java:S1874ø"9Remove this use of "DefaultHttpClient"; it is deprecated.(‹Æ¥ıÿÿÿÿ
+A
+java:S1181ş"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+V
+java:S1854Î":Remove this useless assignment to local variable "writer".(‚È–şÿÿÿÿ
+A
+java:S1181Ë"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+O
+java:S4719Å"9Replace charset name argument with StandardCharsets.UTF_8(À ×

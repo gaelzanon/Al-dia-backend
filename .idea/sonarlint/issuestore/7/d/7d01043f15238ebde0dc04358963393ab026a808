@@ -1,0 +1,36 @@
+
+—
+java:S1186*"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(šœ«¾
+—
+java:S11865"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œ °ì
+œ
+java:S1186?"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ß»áùúÿÿÿÿ
+O
+java:S3400"9Remove this method and declare a constant for this value.(”·³›
+V	java:S125"<This block of commented-out lines of code should be removed.(²¬”šúÿÿÿÿ
+M
+java:S1135"2Complete the task associated to this TODO comment.(Žã—Çýÿÿÿÿ
+M
+java:S1135"2Complete the task associated to this TODO comment.(Žã—Çýÿÿÿÿ
+J
+java:S1172""4Remove this unused method parameter "nombreUsuario".(¦Ñ…å
+H
+java:S1135."2Complete the task associated to this TODO comment.(í“‰Ý
+M
+java:S11358"2Complete the task associated to this TODO comment.(öÅ¡ßüÿÿÿÿ
+H
+java:S1135<"2Complete the task associated to this TODO comment.(í“‰Ý
+O
+java:S1172B"4Remove this unused method parameter "nombreUsuario".(„èž‡øÿÿÿÿ
+C
+java:S2447H"-Null is returned but a "Boolean" is expected.(¥¹ï
+C
+java:S1172F"-Remove this unused method parameter "userUS".(²¦™ì
+H
+java:S1135G"2Complete the task associated to this TODO comment.(í“‰Ý
+C
+java:S2447M"-Null is returned but a "Boolean" is expected.(¥¹ï
+T
+java:S1172K"?Remove these unused method parameters "username", "contraDeUS".(ªæ®&
+H
+java:S1135L"2Complete the task associated to this TODO comment.(í“‰Ý
